@@ -1,0 +1,13 @@
+C:\Users\123\source\repos\ForestFire\ForestFire\bin\Debug\netcoreapp3.1\ForestFire.exe
+C:\Users\123\source\repos\ForestFire\ForestFire\bin\Debug\netcoreapp3.1\ForestFire.deps.json
+C:\Users\123\source\repos\ForestFire\ForestFire\bin\Debug\netcoreapp3.1\ForestFire.runtimeconfig.json
+C:\Users\123\source\repos\ForestFire\ForestFire\bin\Debug\netcoreapp3.1\ForestFire.runtimeconfig.dev.json
+C:\Users\123\source\repos\ForestFire\ForestFire\bin\Debug\netcoreapp3.1\ForestFire.dll
+C:\Users\123\source\repos\ForestFire\ForestFire\bin\Debug\netcoreapp3.1\ForestFire.pdb
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.csprojAssemblyReference.cache
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.AssemblyInfo.cs
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.dll
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.pdb
+C:\Users\123\source\repos\ForestFire\ForestFire\obj\Debug\netcoreapp3.1\ForestFire.genruntimeconfig.cache
